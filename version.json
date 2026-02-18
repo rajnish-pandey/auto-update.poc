@@ -1,8 +1,9 @@
 {
   "windows": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "url": "https://github.com/rajnish-pandey/auto-update.poc/releases/download/v2.0.0/Calculator-2.0.0.exe",
     "sha256": "d8ea1f5ace2af7236037ad979221a371e7f53b216012c4eccca241db9eccd0e6"
   }
 }
+
 
